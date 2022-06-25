@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "userInterfaceStyle": "automatic",
+    "name": "vidente",
+    "slug": "vidente",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
